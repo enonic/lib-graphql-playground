@@ -20,5 +20,5 @@ publishing {
 }
 
 dependencies {
-    compile "com.enonic.lib:lib-mustache:2.0.0"
+    compile "com.enonic.lib:lib-mustache:2.1.0"
 }
