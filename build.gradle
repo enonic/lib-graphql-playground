@@ -11,14 +11,6 @@ repositories {
     xp.enonicRepo()
 }
 
-publishing {
-    publications {
-        myLibrary( MavenPublication ) {
-            from components.java
-        }
-    }
-}
-
 dependencies {
     compile "com.enonic.lib:lib-mustache:2.1.0"
 }
