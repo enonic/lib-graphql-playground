@@ -10,6 +10,9 @@ Library encapsulating GraphQL Playground, a GraphQL IDE for better development w
 |Min. XP Version
 |Dependency
 
+|0.0.2
+|7.0.0
+|com.enonic.lib:lib-graphql-playground:0.0.2
 |0.0.1
 |7.0.0
 |com.enonic.lib:lib-graphql-playground:0.0.1
